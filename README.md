@@ -34,3 +34,7 @@ Join by phone
 +1-415-655-0002 US Toll  
 +1-855-797-9485 US Toll free  
 Global call-in numbers <https://openconnectivity.webex.com/openconnectivity/globalcallin.php?serviceType=MC&ED=643099917&tollFree=1>   |  Toll-free calling restrictions <https://www.webex.com/pdf/tollfree_restrictions.pdf>    
+
+## Meeting minutes
+
+Etherpad: http://etherpad.tools.ietf.org:9000/p/notes-t2trg-ocf-20180125
